@@ -1,0 +1,42 @@
+.subscribe__title {
+    width: 832px;
+    margin-left: 170px;
+    margin-top: 90px;
+    text-align: center;
+    font-size: 42px;
+    font-family: 'Playfair Display', regular;
+}
+
+.subscribe__row {
+    width: 630px;
+    margin-left: 275px;
+    margin-top: 20px;
+    font-size: 16px;
+    text-align: center;
+    font-family: 'Noto Sans', sans-serif;
+    color: rgb(153, 153, 153);
+}
+
+.subscribe__form {}
+
+.subscribe__form__input {
+    /* width: 244px; */
+    height: 42px;
+    border: 1px solid;
+    border-color: rgb(247,36,100);
+    border-radius: 4px;
+    margin: 30px 10px 0 413px;
+    padding-left: 10.59px;
+}
+
+
+.subscribe__form__button {
+    width: 134px;
+    height: 42px;
+    background-color: rgb(247,36,100);
+    color: white;
+    border-radius: 4px;
+}
+.subscribe__form__button:active{
+    background-color: rgb(211, 78, 118);
+}
